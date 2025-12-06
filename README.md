@@ -1,2 +1,2 @@
-# -terraform-aws-ec2
+# terraform-aws-ec2
 Reusable Terraform module for RDS MySQL
